@@ -3,5 +3,5 @@ package Clases;
 
 
 public class Empleado {
-    //Atributos
+    //estos son los atributos
 }
